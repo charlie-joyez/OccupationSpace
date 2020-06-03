@@ -5,21 +5,21 @@
   "logo": {
     "file": "",
     "link": "",
-    "text": ""
+    "text": "Charlie Joyez"
   },
   "text": {
-    "more": "",
-    "intro": "",
-    "title": "The Occupation Space"
+    "more": "Long desc",
+    "intro": "Short desc",
+    "title": "Occupation Space"
   },
   "legend": {
-    "edgeLabel": "FrequencySwitch",
-    "colorLabel": "PCS",
+    "edgeLabel": "Skill_Proximity",
+    "colorLabel": "PCS 1 digit",
     "nodeLabel": "Occupation"
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "pcs1",
+    "groupSelectorAttribute": "color",
     "hoverBehavior": "dim"
   },
   "informationPanel": {
@@ -40,8 +40,8 @@
       "defaultLabelSize": 14
     },
     "graphProperties": {
-      "maxEdgeSize": 7,
-      "minEdgeSize": 0.5,
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
       "minNodeSize": 1,
       "maxNodeSize": 7
     },
