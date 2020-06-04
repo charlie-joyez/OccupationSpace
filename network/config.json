@@ -14,13 +14,13 @@
   },
   "legend": {
     "edgeLabel": "Skill_Proximity",
-    "colorLabel": "PCS 1 digit",
+    "colorLabel": "Modularity Class",
     "nodeLabel": "Occupation"
   },
   "features": {
     "search": true,
     "groupSelectorAttribute": "color",
-    "hoverBehavior": "dim"
+    "hoverBehavior": "default"
   },
   "informationPanel": {
     "groupByEdgeDirection": true,
