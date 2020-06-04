@@ -8,12 +8,12 @@
     "text": "Charlie Joyez"
   },
   "text": {
-    "more": "Long desc",
-    "intro": "Short desc",
+    "more": "The French Occupation Space is a network of revealed proximity between occupations (at the pcs-4digit level), based on switching frequency of a representative sample of French workforce between 2003 and 2015. The nodes' size is proportion to their total ties (strength), their color indicates the modularity class they belong to (Louvain algorithm). The edges' size is proportional to the proximity between occupations. For more details see Joyez & Laffineur (forthcoming) or email corresponding author at charlie.joyez[at]univ-cotedazur.fr",
+    "intro": "French Occupation Space, Joyez & Laffineur (forthcoming)",
     "title": "Occupation Space"
   },
   "legend": {
-    "edgeLabel": "Skill_Proximity",
+    "edgeLabel": "Skill Proximity",
     "colorLabel": "Modularity Class",
     "nodeLabel": "Occupation"
   },
@@ -40,8 +40,8 @@
       "defaultLabelSize": 14
     },
     "graphProperties": {
-      "maxEdgeSize": 0.5,
-      "minEdgeSize": 0.2,
+      "maxEdgeSize": 3,
+      "minEdgeSize": 0.01,
       "minNodeSize": 1,
       "maxNodeSize": 7
     },
