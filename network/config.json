@@ -8,8 +8,8 @@
     "text": "Charlie Joyez"
   },
   "text": {
-    "more": "The Occupation Space links 270 occupations according to their revealed skill-proximity. Nodes size is proportional to their centrality. It is derived from occupation switches observed in a representative panel of French workforce (DADS-panel). For full methodology, Joyez, C., Laffineur, C. The occupation space: network structure, centrality and the potential of labor mobility in the French labor market. Appl Netw Sci 7, 16 (2022). https://doi.org/10.1007/s41109-022-00453-3",
-    "intro": "The French Occupation Space from Joyez \u0026 Laffineur, 2022",
+    "more": "The Occupation Space links 270 occupations according to their revealed skill-proximity. It is derived from occupation switches observed in a representative panel of French workforce (DADS-panel). For full methodology, see Joyez, C., Laffineur, C. The occupation space: network structure, centrality and the potential of labor mobility in the French labor market. Appl Netw Sci 7, 16 (2022). https://doi.org/10.1007/s41109-022-00453-3",
+    "intro": " French Occupation Space from Joyez \u0026 Laffineur, 2022",
     "title": "Occupation Space"
   },
   "legend": {
