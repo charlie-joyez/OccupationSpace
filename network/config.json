@@ -9,7 +9,7 @@
   },
   "text": {
     "more": "The Occupation Space links 270 occupations according to their revealed skill-proximity. It is derived from occupation switches observed in a representative panel of French workforce (DADS-panel). For full methodology, see Joyez, C., Laffineur, C. The occupation space: network structure, centrality and the potential of labor mobility in the French labor market. Appl Netw Sci 7, 16 (2022). https://doi.org/10.1007/s41109-022-00453-3",
-    "intro": " French Occupation Space from Joyez \u0026 Laffineur, 2022",
+    "intro": " French Occupation Space from Joyez \u0026 Laffineur, 2022.\nClick on a node to see its label, centrality and connections.",
     "title": "Occupation Space"
   },
   "legend": {
@@ -41,9 +41,9 @@
     },
     "graphProperties": {
       "maxEdgeSize": 25,
-      "minEdgeSize": 1,
+      "minEdgeSize": 1.5,
       "minNodeSize": 1,
-      "maxNodeSize": 7
+      "maxNodeSize": 10
     },
     "mouseProperties": {
       "maxRatio": 20,
