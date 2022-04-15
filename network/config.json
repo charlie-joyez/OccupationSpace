@@ -9,17 +9,17 @@
   },
   "text": {
     "more": "Long desc",
-    "intro": "The Occupation Space aims at connecting occupations according to their skill-proximity, to illustrate the occupation-specific potential of labor mobility (See Joyez \u0026 Laffineur, 2021)",
+    "intro": "The Occupation Space aims at connecting occupations according to their skill-proximity, to illustrate the occupation-specific potential of labor mobility (See Joyez \u0026 Laffineur, 2022)",
     "title": "Occupation Space"
   },
   "legend": {
     "edgeLabel": "Skill Relatedness",
-    "colorLabel": "Modularity community",
+    "colorLabel": "PCS-1digit",
     "nodeLabel": "Occupations"
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "cluster_1",
+    "groupSelectorAttribute": false,
     "hoverBehavior": "dim"
   },
   "informationPanel": {
